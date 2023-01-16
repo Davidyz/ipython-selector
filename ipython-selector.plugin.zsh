@@ -36,4 +36,6 @@ ipython3.11(){
     _check 3.11
 }
 
-alias ipython='python -m IPython'
+ipython(){
+    python -m IPython
+}
